@@ -1,3 +1,5 @@
+![Gehon](./public/thumb.png)
+
 # Gehon
 
 Corporate website created for the Gehon Institute 🌐🏢
