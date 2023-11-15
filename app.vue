@@ -332,6 +332,7 @@ if (process.client) {
 }
 
 useHead({
+  title: "Instituto Gehon",
   htmlAttrs: {
     lang: "pt-br",
   },
