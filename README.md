@@ -1,6 +1,6 @@
 # Gehon
 
-Description.
+Corporate website created for the Gehon Institute 🌐🏢
 
 ## 📦 Install
 
